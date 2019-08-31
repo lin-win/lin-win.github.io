@@ -4,7 +4,7 @@ SEOTitle: 刘文的博客 | LW Blog
 header-img: img/post-bg-desk.jpg
 email: 15797658522@163.com
 description: "What does not kill me, makes me stronger."
-keyword: "LW, LW Blog, 刘文的博客, lin-win, 刘文, iOS, Apple, iPhone"
+keyword: "LW, LW Blog, 刘文的博客, lin-win, 刘文, Linux，网络空间安全，边缘计算"
 url: "http://lin-win.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
@@ -57,8 +57,7 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
-
+# disqus_username: lin-win
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
@@ -74,7 +73,7 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+#ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
 #ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
@@ -99,16 +98,14 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "LW",
-        href: "http://zhengwuyang.com"
+        title: "Tom实验室",
+        href: "https://www.saiin.com.cn/"
+    },
+    {
+        title: "菜鸟教程",
+        href: "https://www.runoob.com/"
     },{
-        title: "简书·LW",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "西安电子科技大学",
+        href: "https://www.xidian.edu.cn/"
     }
 ]
